@@ -8,11 +8,12 @@ public class student {
        show();
 	}
    
-    	public static void show() {
-        	int[] arr= {1,2,3,4,5};
+    	public static void showclassB() {
+    	
+    	
+        	int[] arr= {1,2,3,4,5,6,7,};
         	for (int i=0;i<5;i++) {
         		System.out.print(i);
         	}
-    	System.out.println("Hello from class A");  
-    	}
+  
 }
