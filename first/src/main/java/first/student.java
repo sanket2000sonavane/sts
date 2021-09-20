@@ -8,6 +8,6 @@ public class student {
 	}
     public static void classA() {
     	System.out.println("Hello from class A");  
-    	System.out.println("hello from class B");
+    
     	}
 }
